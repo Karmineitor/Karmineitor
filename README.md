@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karmineitor
+- 👋 ¡Buen día!, Soy Roelver Duarte
 - 👀 Me interesa la investigación y el desarrollo de soluciones
 - 🌱 Actualmente estoy estudiando Scrum y Python
 - 📫 Mi correo es roelverduarte@gmail.com
